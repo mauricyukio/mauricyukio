@@ -1,8 +1,8 @@
 [![CodeWars Badge](https://www.codewars.com/users/mauricyukio/badges/large
  "CodeWars Badge")](https://www.codewars.com/users/mauricyukio)
  
-<h1 align="center">Hi 👋, I'm Nagashima Yukio</h1>
-<h3 align="center">A passionate frontend developer from Brazil</h3>
+<h1">Hi 👋, I'm Nagashima Yukio</h1>
+<h3>A passionate frontend developer from Brazil</h3>
 
 - 🔭 I’m currently working on a personal Design System with two UX designers
 - 🌱 I’m currently learning JavaScript and ReactJS
